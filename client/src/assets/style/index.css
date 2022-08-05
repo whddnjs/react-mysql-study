@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'nanum-light';
+  src: url(../fonts/NanumSquareL.otf);
+}
+@font-face {
+  font-family: 'nanum-regular';
+  src: url(../fonts/NanumSquareR.otf);
+}
+@font-face {
+  font-family: 'nanum-bold';
+  src: url(../fonts/NanumSquareB.otf);
+}
+@font-face {
+  font-family: 'nanum-eb';
+  src: url(../fonts/NanumSquareEB.otf);
+}
